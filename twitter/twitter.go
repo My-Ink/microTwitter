@@ -9,7 +9,7 @@ type Twitter struct {
 	// Time
 	timeMoment int
 
-	// tweetId --> [0] authorId, [1] timeMomentId
+	// tweetId --> timeMoment
 	tweetMoment map[int]int
 
 	// followeeId --> followersId
