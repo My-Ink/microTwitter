@@ -9,3 +9,5 @@ followed by user.
 
 ### Task "LFU Cache": https://leetcode.com/problems/lfu-cache/
 
+Implemented as "list of lists": each bucket has `rank` - frequency of each element in it and `lru` - list of elements with this
+frequency.  

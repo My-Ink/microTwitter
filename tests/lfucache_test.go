@@ -59,4 +59,18 @@ func TestLFUCacheSequential(t *testing.T) {
         AssertEqual(t, lfu.Get(4), -1)
         AssertEqual(t, lfu.Get(5), 5)
     })
+    t.Run("Test 2", func(t *testing.T) {
+        lfu := lfucache.Constructor(3)
+        lfu.Put(2, 2)
+        lfu.Put(1, 1)
+        AssertEqual(t, lfu.Get(2), 2)
+        AssertEqual(t, lfu.Get(1), 1)
+        AssertEqual(t, lfu.Get(2), 2)
+        lfu.Put(3, 3)
+        lfu.Put(4, 4)
+        AssertEqual(t, lfu.Get(3), -1)
+        AssertEqual(t, lfu.Get(2), 2)
+        AssertEqual(t, lfu.Get(1), 1)
+        AssertEqual(t, lfu.Get(4), 4)
+    })
 }
