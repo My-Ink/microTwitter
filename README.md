@@ -17,3 +17,9 @@ Implemented as "list of lists": each bucket has `rank` - frequency of each eleme
 with this frequency.  
 <a href="https://leetcode.com/problems/lfu-cache/discuss/1840101/Go-%22list-of-lists%22-solution-(488-ms-~-96-beats)-with-explanation">
 Solution + explanation</a>
+
+### Task "Similar String Groups": https://leetcode.com/problems/similar-string-groups/
+
+DSU implementation  
+<a href="https://leetcode.com/problems/similar-string-groups/solutions/3463782/fast-simple-solution-with-union-find-golang-3-ms/">
+Solution + explanation</a>
