@@ -23,3 +23,6 @@ Solution + explanation</a>
 DSU implementation  
 <a href="https://leetcode.com/problems/similar-string-groups/solutions/3463782/fast-simple-solution-with-union-find-golang-3-ms/">
 Solution + explanation</a>
+
+### Task "Senate": https://leetcode.com/problems/dota2-senate/
+<a href="https://leetcode.com/problems/dota2-senate/solutions/3484371/simple-greedy-queue-based-algorithm-detailed-explanation-go-100-beats/">Solution + explanation</a>
