@@ -28,4 +28,4 @@ Solution + explanation</a>
 <a href="https://leetcode.com/problems/dota2-senate/solutions/3484371/simple-greedy-queue-based-algorithm-detailed-explanation-go-100-beats/">Solution + explanation</a>
 
 ### Task "Maximum Twin Sum of a Linked List": https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
-<a href="[https://leetcode.com/problems/dota2-senate/solutions/3484371/simple-greedy-queue-based-algorithm-detailed-explanation-go-100-beats/](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/solutions/3533865/go-javascript-two-approaches-recursion-stack/)">Solution + explanation</a>
+<a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/solutions/3533865/go-javascript-two-approaches-recursion-stack/">Solution + explanation</a>
