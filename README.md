@@ -29,3 +29,6 @@ Solution + explanation</a>
 
 ### Task "Maximum Twin Sum of a Linked List": https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/solutions/3533865/go-javascript-two-approaches-recursion-stack/">Solution + explanation</a>
+
+### (JavaScript) Task "Array of Objects to Matrix": https://leetcode.com/problems/array-of-objects-to-matrix/
+<a href="https://leetcode.com/problems/array-of-objects-to-matrix/solutions/3555134/visitor-pattern-solution/">Solution</a>
